@@ -1,2 +1,0 @@
-# springmvc
-first springmvc project
